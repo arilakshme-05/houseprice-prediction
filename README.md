@@ -51,7 +51,7 @@ The application outputs model error metrics (MSE and R^2) alongside a scatter pl
 
 ##  How to Run
 
-1. **Clone the repository**:
+1. Clone the repository:
    git clone [https://github.com/arilakshme-05/houseprice-prediction.git](https://github.com/arilakshme-05/houseprice-prediction.git)
    cd houseprice-prediction
 
